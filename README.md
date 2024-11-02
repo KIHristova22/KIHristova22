@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **KIHristova22@codingburgas.bg**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
