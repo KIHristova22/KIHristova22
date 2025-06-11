@@ -1,8 +1,6 @@
 <h1 align="center">Kristiyana Hristova</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kihristova22&label=Profile%20views&color=0e75b6&style=flat" alt="kihristova22" /> </p>
 
-- 🌱 I’m currently learning **to play the piano.**
-
 - 📫 How to reach me **KIHristova22@codingburgas.bg**
 
 
