@@ -39,3 +39,5 @@
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kihristova22&show_icons=true&locale=en" alt="kihristova22" /></p>
+
+![rawr](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDIwdmZkanBtMjdrdXBkdTJkZWl6cm96MTcxMDRkMWQ4ZmU1MnBwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohuPel436qciQZ8fC/giphy.gif)
