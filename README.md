@@ -1,8 +1,11 @@
 <h1 align="center">Kristiyana Hristova</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihristova22&label=Profile%20views&color=0e75b6&style=flat" alt="kihristova22" /> </p>
 
-- 📫 How to reach me **KIHristova22@codingburgas.bg**
+[![Email](https://img.shields.io/badge/Email-KIHristova22@codingburgas.bg-red?style=flat&logo=gmail)](mailto:KIHristova22@codingburgas.bg)
+[![GitHub](https://img.shields.io/badge/GitHub-KIHristova22-black?style=flat&logo=github)](https://github.com/KIHristova22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristiyana%20Hristova-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kristiyana-hristova-30773b338/)
 
+- 🧩 Improving my **Italian** skills  
+- 🧠 Gaining experience in **R programming** and statistics
 
 <p align="left">
 
@@ -32,12 +35,22 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+    <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kihristova22&show_icons=true&locale=en" alt="kihristova22" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kihristova22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="kihristova22 GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kihristova22&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 ![rawr](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDIwdmZkanBtMjdrdXBkdTJkZWl6cm96MTcxMDRkMWQ4ZmU1MnBwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohuPel436qciQZ8fC/giphy.gif)
