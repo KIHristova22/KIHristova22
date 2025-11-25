@@ -1,5 +1,7 @@
 # 💫 About Me:
-🧩 Improving my Italian skills<br>🧠 Gaining experience in R programming and statistics
+🧩 Currently improving my Italian skills
+<br>
+🧠 Gaining experience in R programming and statistics
 
 
 ## 🌐 Socials:
