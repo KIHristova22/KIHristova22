@@ -1,56 +1,27 @@
-<h1 align="center">Kristiyana Hristova</h1>
+# 💫 About Me:
+🧩 Improving my Italian skills<br>🧠 Gaining experience in R programming and statistics
 
-[![Email](https://img.shields.io/badge/Email-KIHristova22@codingburgas.bg-red?style=flat&logo=gmail)](mailto:KIHristova22@codingburgas.bg)
-[![GitHub](https://img.shields.io/badge/GitHub-KIHristova22-black?style=flat&logo=github)](https://github.com/KIHristova22)
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristiyana%20Hristova-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kristiyana-hristova-30773b338/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:KIHristova22@codingburgas.bg) 
 
-- 🧩 Improving my **Italian** skills  
-- 🧠 Gaining experience in **R programming** and statistics
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<p align="left">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KIHristova22&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KIHristova22&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIHristova22&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- C# -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp" target="_blank" rel="noreferrer">
-    <img src="https://ms-dotnettools.gallerycdn.vsassets.io/extensions/ms-dotnettools/csharp/2.96.3/1761164837307/Microsoft.VisualStudio.Services.Icons.Default" alt="c#" width="40" height="40"/>
-  </a>
-  <!-- QT -->
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-    <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</div>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kihristova22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="kihristova22 GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kihristova22&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-![rawr](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDIwdmZkanBtMjdrdXBkdTJkZWl6cm96MTcxMDRkMWQ4ZmU1MnBwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohuPel436qciQZ8fC/giphy.gif)
+---
+[![](https://visitcount.itsvg.in/api?id=KIHristova22&icon=0&color=3)](https://visitcount.itsvg.in)
