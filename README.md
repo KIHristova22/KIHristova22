@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=KIHristova22&style=for-the-badge&color=blueviolet)
+
 # 💫 About Me:
 🧩 Currently improving my Italian skills
 <br>
@@ -21,4 +23,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=KIHristova22&theme=vue-dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KIHristova22&theme=vue-dark&hide_border=true)
+<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KIHristova22&theme=react-dark&hide_border=true)
+<br/>
